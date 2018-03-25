@@ -1,9 +1,10 @@
 # **ADD-3 !**
 
-> A simple game written on swift 3 and Xcode 8, the basically is basically requires the player to think fast under pressure as the randomly generated 4-digit number on the screen is replaced every 3 seconds
+> A simple game written on swift 3 and Xcode 8, the player needs to think fast under pressure as the randomly generated 4-digit number on the screen is replaced every 3 seconds
 
 > **TECHNOLOGY**
-* Swift
+* Swift 3
+* Xcode 8
 
 ## **PAGES**
 
